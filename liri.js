@@ -30,7 +30,7 @@ switch (userCmd) {
   default:
     console.log("\n+++===========================================+++\n");
     console.log(
-      '•LIRI-BOT: "I\'m sorry. I do not understand the command."\n\n•LIRI-BOT: "I understand these commands: {concert-this}, {spotify-this-song}, {movie-this}, {do-this}."\n'
+      '•LIRI-Bot: "I\'m sorry. I do not understand the command."\n\n•LIRI-Bot: "I understand these commands: {concert-this}, {spotify-this-song}, {movie-this}, {do-this}."\n'
     );
     console.log("// Example: {liri.js spotify-this-song Hello Adele} //");
     console.log("\n+++=========================================+++\n");
@@ -49,7 +49,7 @@ function concertThis() {
     search();
   } else {
     console.log(
-      '\n•LIRI-BOT: "Thank-you for your input....." \n•LIRI-BOT: "I am now showing 5 results for "' +
+      '\n•LIRI-Bot: "Thank-you for your input....." \n•LIRI-Bot: "I am now showing 5 results for "' +
         userInput.toUpperCase() +
         '."'
     );
@@ -87,7 +87,7 @@ function spotifyThis() {
   //if there's no initial song input, default to ace of base;
   if (!userInput) {
     console.log(
-      '\n•LIRI BOT: "You did not enter a song. I will display Spotify results for: The Sign by Ace of Base".'
+      '\n•LIRI Bot: "You did not enter a song. I will display Spotify results for: The Sign by Ace of Base".'
     );
     userInput = "The Sign Ace of Base";
     console.log("\n• • • • • • • • RESULTS • • • • • • • • ");
@@ -96,7 +96,7 @@ function spotifyThis() {
   //if there is song input by user, liri will run the spotify search for that song.
   else {
     console.log(
-      '\n•LIRI-BOT: "Thank-you for your input....." \n•LIRI-BOT: "I am now showing 5 results for "' +
+      '\n•LIRI-Bot: "Thank-you for your input....." \n•LIRI-Bot: "I am now showing 5 results for "' +
         userInput.toUpperCase() +
         '."'
     );
@@ -142,14 +142,14 @@ function spotifyThis() {
 function movieThis() {
   if (!userInput) {
     console.log(
-      '\n•LIRI BOT: "You did not enter a movie. I will display OMDB results for: Mr. Nobody".'
+      '\n•LIRI-Bot: "You did not enter a movie. I will display OMDB results for: Mr. Nobody".'
     );
     userInput = "Mr. Nobody";
     console.log("\n• • • • • • • • RESULTS • • • • • • • • ");
     search();
   } else {
     console.log(
-      '\n•LIRI-BOT: "Thank-you for your input....." \n•LIRI-BOT: "I am now showing movie results for "' +
+      '\n•LIRI-Bot: "Thank-you for your input....." \n•LIRI-Bot: "I am now showing movie results for "' +
         userInput.toUpperCase() +
         '."'
     );
