@@ -6,7 +6,7 @@ LIRI-Bot is a command line node application that takes in parameters and returns
 LIRI-Bot works pulls data from API's. In this case, LIRI searches Spotify for music, BandsInTown for concerts and events, and OMDB for movies.
 
 API-keys are accessible for LIRI users but hidden utilizing `gitignore` and `.env`.
-
+<aside> When loaded, LIRI-Bot will give this screen. If a proper command is not given, this screen will also load. </aside>
 ![WELCOME Image](/images/Liri_Bot_WELCOME_Demo.png)
 
 ### INSTALLATIONS
@@ -22,11 +22,21 @@ LIRI-Bot is built with the following extensions/API's:
 ### LIRI-Bot Command Demos
 <hr>
 
+//141x35
+
 #### spotify-this-song Command
 1. `node liri.js spotify-this-song <song-name>`
-  - This command searches the spotify API for a song name. The search can include the artist as well for more specific results. Liri bot        as of now is limited to displaying the first two results for spacial-reasons.
+    - This command searches the spotify API for a song name. The search can include the artist as well for more specific results. LIRI-Bot as of now is limited to displaying the first two results for spacial-reasons.
+<br>
     ![WELCOME Image](/images/Liri_Bot_spotify-this-song_Demo.gif)
+<br>
+    - If LIRI-Bot is not given a proper search term, or no search term at all LIRI-Bot will default to searching for <em>The Sign by Ace of Base</em>:
+<br>
+    ![Default Liri](/images/Liri_Bot_spotify-this-song_ERR_Demo.gif)
+<br>
+<hr>
+2.
 
-    <br>
+
   
     
