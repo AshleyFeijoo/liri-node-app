@@ -19,6 +19,8 @@ LIRI-Bot is built with the following extensions/API's:
 * [OMDB API](http://www.omdbapi.com)
 * [Bands In Town API](http://www.artists.bandsintown.com/bandsintown-api)
 
-### LIRI-Bot Command Demo
+### LIRI-Bot Command Demos
 <hr>
-```#### `spotify-this-song` Command
+
+#### spotify-this-song Command
+    
