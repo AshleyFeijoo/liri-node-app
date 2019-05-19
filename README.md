@@ -36,7 +36,12 @@ LIRI-Bot is built with the following extensions/API's:
         <img src="/images/Liri_Bot_spotify-this-song_ERR_Demo.gif" width="700" height="430"/>
 
 <hr>
-2.
+
+2. `node liri.js concert-this <Band-Name/Artist>`
+    - This command searches the Bands In Town API via `axios` and produces results for concert events based on the artist or band-name searched.
+        <br>
+        <img src="/images/Liri_Bot_concert-this_Demo.gif" width="700" height="430"/>
+
 
 
   
