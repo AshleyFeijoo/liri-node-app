@@ -30,7 +30,7 @@ switch (userCmd) {
   default:
     console.log("\n+++===========================================+++\n");
     console.log(
-      '•LIRI-Bot: "I\'m sorry. I do not understand the command."\n\n•LIRI-Bot: "I understand these commands: {concert-this}, {spotify-this-song}, {movie-this}, {do-this}."\n'
+      '•LIRI-Bot: "Welcome! Please enter a command."\n\n•LIRI-Bot: "I understand these commands: {concert-this}, {spotify-this-song}, {movie-this}, {do-this}."\n'
     );
     console.log("// Example: {liri.js spotify-this-song Hello Adele} //");
     console.log("\n+++=========================================+++\n");
