@@ -21,3 +21,4 @@ LIRI-Bot is built with the following extensions/API's:
 
 ### LIRI-Bot Command Demo
 <hr>
+```#### `spotify-this-song` Command
