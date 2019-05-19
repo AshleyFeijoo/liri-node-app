@@ -8,3 +8,14 @@ LIRI-Bot works pulls data from API's. In this case, LIRI searches Spotify for mu
 API-keys are accessible for LIRI users but hidden utilizing `gitignore` and `.env`.
 
 ![WELCOME Image](/images/Liri_Bot_WELCOME_Demo.png)
+
+### INSTALLATIONS
+LIRI-Bot is built with the following extensions/API's:
+    * [Node.js] (https://nodejs.org/en/)    
+    * [Axios](https://www.npmjs.com/package/axios)
+    * [Moment](https://www.npmjs.com/package/moment)
+    * [DotEnv](https://www.npmjs.com/package/dotenv)
+    * [Node-Spotify-API](https://www.npmjs.com/package/node-spotify-api)
+    *[OMDB API](http://www.omdbapi.com)
+    *[Bands In Town API](http://www.artists.bandsintown.com/bandsintown-api)
+
