@@ -16,6 +16,6 @@ LIRI-Bot is built with the following extensions/API's:
 * [Moment](https://www.npmjs.com/package/moment)
 * [DotEnv](https://www.npmjs.com/package/dotenv)
 * [Node-Spotify-API](https://www.npmjs.com/package/node-spotify-api)
-*[OMDB API](http://www.omdbapi.com)
-*[Bands In Town API](http://www.artists.bandsintown.com/bandsintown-api)
+* [OMDB API](http://www.omdbapi.com)
+* [Bands In Town API](http://www.artists.bandsintown.com/bandsintown-api)
 
