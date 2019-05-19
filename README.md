@@ -29,6 +29,8 @@ LIRI-Bot is built with the following extensions/API's:
     - This command searches the spotify API for a song name. The search can include the artist as well for more specific results. LIRI-Bot as of now is limited to displaying the first two results for spacial-reasons.
 
     ![WELCOME Image](/images/Liri_Bot_spotify-this-song_Demo.gif)
+  <img src="/images/Liri_Bot_spotify-this-song_ERR_Demo.gif" width="700" height="430"/>
+
 
     - If LIRI-Bot is not given a proper search term, or no search term at all LIRI-Bot will default to searching for <em>The Sign by Ace of Base</em>:
 
