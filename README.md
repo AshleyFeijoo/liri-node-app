@@ -51,6 +51,9 @@ LIRI-Bot is built with the following extensions/API's:
 
     - If LIRI-Bot is not given a proper search term, or no search term at all it will default to searching for <em>Cher</em> concerts:
 
+        <img src="/images/Liri_Bot_concert-this_Demo_1.gif" width="700" height="430"/>
+
+
 
 
   
