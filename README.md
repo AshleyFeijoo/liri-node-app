@@ -7,4 +7,4 @@ LIRI-Bot works pulls data from API's. In this case, LIRI searches Spotify for mu
 
 API-keys are accessible for LIRI users but hidden utilizing `gitignore` and `.env`.
 
-![WELCOME Image](images/Liri_Bot_WELCOME_demo.png)
+![WELCOME Image](/images/Liri_Bot_WELCOME_Demo.png)
