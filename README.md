@@ -11,7 +11,7 @@ API-keys are accessible for LIRI users but hidden utilizing `gitignore` and `.en
 
 ### INSTALLATIONS
 LIRI-Bot is built with the following extensions/API's:
-    * [Node.js] (https://nodejs.org/en/)    
+..* [Node.js](https://nodejs.org/en/)    
     * [Axios](https://www.npmjs.com/package/axios)
     * [Moment](https://www.npmjs.com/package/moment)
     * [DotEnv](https://www.npmjs.com/package/dotenv)
