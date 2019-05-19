@@ -7,7 +7,10 @@ LIRI-Bot works pulls data from API's. In this case, LIRI searches Spotify for mu
 
 API-keys are accessible for LIRI users but hidden utilizing `gitignore` and `.env`.
 <aside> When loaded, LIRI-Bot will give this screen. If a proper command is not given, this screen will also load. </aside>
+
 ![WELCOME Image](/images/Liri_Bot_WELCOME_Demo.png)
+
+***
 
 ### INSTALLATIONS
 LIRI-Bot is built with the following extensions/API's:
@@ -31,8 +34,9 @@ LIRI-Bot is built with the following extensions/API's:
         <img src="/images/Liri_Bot_spotify-this-song-1_Demo.gif" width="700" height="430"/>
 
 
-    - If LIRI-Bot is not given a proper search term, or no search term at all LIRI-Bot will default to searching for <em>The Sign by Ace of Base</em>:
+    - If LIRI-Bot is not given a proper search term, or no search term at all it will default to searching for <em>The Sign by Ace of Base</em>:
         <br>
+
         <img src="/images/Liri_Bot_spotify-this-song_ERR_Demo.gif" width="700" height="430"/>
 
 <hr>
@@ -40,7 +44,10 @@ LIRI-Bot is built with the following extensions/API's:
 2. `node liri.js concert-this <Band-Name/Artist>`
     - This command searches the Bands In Town API via `axios` and produces results for concert events based on the artist or band-name searched.
         <br>
+
         <img src="/images/Liri_Bot_concert-this_Demo.gif" width="700" height="430"/>
+
+    - If LIRI-Bot is not given a proper search term, or no search term at all it will default to searching for <em>Cher</em> concerts:
 
 
 
