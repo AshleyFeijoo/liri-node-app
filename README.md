@@ -33,13 +33,13 @@ LIRI-Bot is built with the following extensions/API's:
 1. `node liri.js spotify-this-song <song-name>`
     - This command searches the spotify API for a song name. The search can include the artist as well for more specific results. LIRI-Bot as of now is limited to displaying the first two results for spacial-reasons.
         <br>
-        <img src="/images/Liri_Bot_spotify-this-song-1_Demo.gif" width="700" height="430"/>
+        <img src="/images/Liri_Bot_spotify-this-song-1_Demo.gif"/>
 
 
     - If LIRI-Bot is not given a proper search term, or no search term at all it will default to searching for <em>The Sign by Ace of Base</em>:
         <br>
 
-        <img src="/images/Liri_Bot_spotify-this-song_ERR_Demo.gif" width="700" height="430"/>
+        <img src="/images/Liri_Bot_spotify-this-song_ERR_Demo.gif"/>
 
 <hr>
 
@@ -47,11 +47,11 @@ LIRI-Bot is built with the following extensions/API's:
     - This command searches the Bands In Town API via `axios` and produces results for concert events based on the artist or band-name searched.
         <br>
 
-        <img src="/images/Liri_Bot_concert-this_Demo.gif" width="700" height="430"/>
+        <img src="/images/Liri_Bot_concert-this_Demo.gif"/>
 
     - If LIRI-Bot is not given a proper search term, or no search term at all it will default to searching for <em>Cher</em> concerts:
 
-        <img src="/images/Liri_Bot_concert-this_Demo_1.gif" width="700" height="430"/>
+        <img src="/images/Liri_Bot_concert-this_Demo_1.gif"/>
 
 
 
