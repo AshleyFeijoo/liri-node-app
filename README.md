@@ -56,8 +56,8 @@ LIRI-Bot is built with the following extensions/API's:
 <hr>
 
 3. `node liri.js movie-this <Movie Name>`
-    - This command searches the OMDB API via `axios` and generates results about the movie title that was searched. 
-    <br>  
+    - This command searches the OMDB API via `axios` and generates results about the movie title that was searched.
+
         <img src="/images/Liri_Bot_movie-this_Demo_.gif"/>
 
     - If LIRI-Bot is not given a proper search term, or no search term at all it will default to searching for the movie, <em>Mr. Nobody</em>:
