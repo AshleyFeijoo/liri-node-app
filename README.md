@@ -89,6 +89,14 @@ LIRI-Bot is built with the following extensions/API's:
 
         ![random-DemoTwo](/images/Liri_Bot_do-this_demo_2.gif);
 
+    - ...And Again: 
+
+        ![random-DemoThree](/images/Liri_Bot_do-this_demo_3.gif);
+
+***
+***
+
+
 
 
         
