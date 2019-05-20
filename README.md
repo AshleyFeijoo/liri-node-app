@@ -82,11 +82,11 @@ LIRI-Bot is built with the following extensions/API's:
 
         <img src="/images/random_demo_1.png" width="640" height="394" />
 
-        ![random-Demo](/images/Liri_Bot_do-this_demo_1.gif);
+        ![random-Demo](/images/Liri_Bot_do-this_demo_1.gif)
 
     - If we change the text, we can see the command changes as well: 
 
-        <img src="/images/random_demo_2.png" width="640" height="394" />
+        <img src="/images/random_demo_2.png" width="640" height="394"/>
 
         ![random-DemoTwo](/images/Liri_Bot_do-this_demo_2.gif);
 
