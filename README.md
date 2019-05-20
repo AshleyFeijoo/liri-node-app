@@ -33,6 +33,9 @@ LIRI-Bot is built with the following extensions/API's:
 1. `node liri.js spotify-this-song <song-name>`
     - This command searches the spotify API for a song name. The search can include the artist as well for more specific results. LIRI-Bot as of now is limited to displaying the first two results for spacial-reasons.
         <br>
+        
+        ![spotify-Demo](/images/Liri_Bot_spotify-this-song-1_Demo.gif);
+
         <img src="/images/Liri_Bot_spotify-this-song-1_Demo.gif"/>
 
 
@@ -62,9 +65,19 @@ LIRI-Bot is built with the following extensions/API's:
 
     - If LIRI-Bot is not given a proper search term, or no search term at all it will default to searching for the movie, <em>Mr. Nobody</em>:
 
-        <img src="/images/Liri_Bot_movie-this_Demo_err.gif"/>
+        <img src="images/Liri_Bot_movie-this_Demo_err.gif"/>
 
 <hr>
+
+4. `node liri.js do-what-it-is`
+    - This command utilizes the Node.js `native file system` to read what is written in the text file `random.txt` and perform the LIRI command. 
+    - The random.txt file has `spotify-this-song,"I Want it That Way"` written inside of it. 
+
+        ![random-Demo](/images/random_demo_1.png);
+
+        ![random-Demo](/images/Liri_Bot_do-this_demo_1.gif);
+        
+
 
 
 

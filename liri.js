@@ -199,9 +199,7 @@ function doThis() {
     if (err) {
       logThis(err);
     }
-
     firstArr = data.split(/,|\n/);
-    console.log(firstArr);
     (count = firstArr.length), (i = 0);
 
     x = firstArr.filter((element, index) => {
