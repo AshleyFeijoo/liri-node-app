@@ -221,16 +221,12 @@ function doThis() {
           break;
 
         case "movie-this":
+          arrayX();
           movieThis(userInput);
           break;
       }
 
-      if (x[i] === "spotify-this-song") {
-      }
-      if (x[i] === "concert-this") {
-        arrayX();
-        concertThis(userInput);
-      }
+
 
       function arrayX() {
         let indexPos = firstArr.indexOf(x[i]);
