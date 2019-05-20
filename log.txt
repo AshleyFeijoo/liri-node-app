@@ -1,0 +1,26 @@
+
+
+•LIRI Bot: "You did not enter a song. I will display Spotify results for: The Sign by Ace of Base".
+• • • • • • • • RESULTS • • • • • • • • 
++++=======Artist Name===============+++
++++ Ace of Base
++++=======Song Name=================+++
++++ The Sign
++++=======Album Name================+++
+
++++=======Preview URL===============+++
++++ The Sign (US Album) [Remastered]+++ https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=9d3143d1ffa44311850d8026289eb4a1
++++=================================+++
+
+•LIRI-Bot: "Thank-you for your input....." 
+•LIRI-Bot: "I am now showing 5 results for "BREATHIN."
+• • • • • • • • RESULTS • • • • • • • • +++ Ariana Grande
++++=======Artist Name===============+++
+
++++=======Song Name=================+++
++++ breathin
++++=======Album Name================+++
++++ Sweetener
++++=================================+++
++++ ---No Preview Available---
++++=======Preview URL===============+++
