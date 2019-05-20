@@ -36,13 +36,13 @@ LIRI-Bot is built with the following extensions/API's:
         
         ![spotify-Demo](/images/Liri_Bot_spotify-this-song-1_Demo.gif);
 
-        <img src="/images/Liri_Bot_spotify-this-song-1_Demo.gif"/>
 
 
     - If LIRI-Bot is not given a proper search term, or no search term at all it will default to searching for <em>The Sign by Ace of Base</em>:
         <br>
 
-        <img src="/images/Liri_Bot_spotify-this-song_ERR_Demo.gif"/>
+        ![spotify-error](/images/Liri_Bot_spotify-this-song_ERR_Demo.gif);
+      
 
 <hr>
 
@@ -50,22 +50,26 @@ LIRI-Bot is built with the following extensions/API's:
     - This command searches the Bands In Town API via `axios` and produces results for concert events based on the artist or band-name searched.
         <br>
 
-        <img src="/images/Liri_Bot_concert-this_Demo.gif"/>
+        ![spotify-error](/images/Liri_Bot_concert-this_Demo.gif);
+
 
     - If LIRI-Bot is not given a proper search term, or no search term at all it will default to searching for <em>Cher</em> concerts:
 
-        <img src="/images/Liri_Bot_concert-this_Demo_1.gif"/>
+        ![spotify-error](/images/Liri_Bot_concert-this_Demo_1.gif);
 
 <hr>
 
 3. `node liri.js movie-this <Movie Name>`
     - This command searches the OMDB API via `axios` and generates results about the movie title that was searched.
 
-        <img src="/images/Liri_Bot_movie-this_Demo_.gif"/>
 
+        ![spotify-error](/images/Liri_Bot_movie-this_Demo_.gif);
+   
     - If LIRI-Bot is not given a proper search term, or no search term at all it will default to searching for the movie, <em>Mr. Nobody</em>:
 
-        <img src="images/Liri_Bot_movie-this_Demo_err.gif"/>
+
+        ![spotify-error](/images/Liri_Bot_movie-this_Demo_err.gif);
+    
 
 <hr>
 
