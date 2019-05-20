@@ -24,6 +24,8 @@ LIRI-Bot is built with the following extensions/API's:
 * [OMDB API](http://www.omdbapi.com)
 * [Bands In Town API](http://www.artists.bandsintown.com/bandsintown-api)
 
+***
+
 ### LIRI-Bot Command Demos
 <hr>
 
@@ -61,6 +63,10 @@ LIRI-Bot is built with the following extensions/API's:
         <img src="/images/Liri_Bot_movie-this_Demo_.gif"/>
 
     - If LIRI-Bot is not given a proper search term, or no search term at all it will default to searching for the movie, <em>Mr. Nobody</em>:
+
+        <img src="/images/Liri_Bot_movie-this_Demo_err.gif"/>
+
+<hr>
 
 
 
