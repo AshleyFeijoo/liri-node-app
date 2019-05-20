@@ -1,6 +1,6 @@
 # LIRI-Bot - Language Interpretation and Recognition Interface
 
-## Overview
+## Overview :fire: :fire: :fire:
 * LIRI-Bot is a command line node application that takes in parameters and returns data to the user.
 
 * LIRI-Bot works by pulling data from API's. In this case, LIRI searches Spotify for music, Bands In Town for concerts and events, and OMDB for movies.
