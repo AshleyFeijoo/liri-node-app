@@ -29,9 +29,7 @@ LIRI-Bot is built with the following extensions/API's:
 ### LIRI-Bot Command Demos
 <hr>
 
-//141x35
-
-#### spotify-this-song Command
+#### `spotify-this-song` Command
 1. `node liri.js spotify-this-song <song-name>`
     - This command searches the spotify API for a song name. The search can include the artist as well for more specific results. LIRI-Bot as of now is limited to displaying the first two results for spacial-reasons.
         <br>
