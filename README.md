@@ -77,7 +77,7 @@ LIRI-Bot is built with the following extensions/API's:
     - This command utilizes the Node.js `native file system` to read what is written in the text file `random.txt` and perform the LIRI command. 
     - The random.txt file has `spotify-this-song,"I Want it That Way"` written inside of it. 
 
-        ![random-Demo](/images/random_demo_1.png);
+        <img src="/images/random_demo_1.png" width="640" height="394" />
 
         ![random-Demo](/images/Liri_Bot_do-this_demo_1.gif);
         
