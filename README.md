@@ -73,7 +73,7 @@ LIRI-Bot is built with the following extensions/API's:
 
 <hr>
 
-4. `node liri.js do-what-it-is`
+4. `node liri.js do-what-it-says`
     - This command utilizes the Node.js `native file system` to read what is written in the text file `random.txt` and perform the LIRI command. 
     - The random.txt file has `spotify-this-song,"I Want it That Way"` written inside of it. 
 
